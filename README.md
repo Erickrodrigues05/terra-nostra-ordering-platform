@@ -15,14 +15,16 @@ Digital ordering platform for Terra Nostra, a restaurant in Luanda, Angola.
 - **Two ordering flows:** QR code ordering at the table, and delivery.
 - **Real-time kitchen:** orders reach the kitchen the moment they are placed.
 - **Owner dashboard:** sales and revenue analytics.
-- **Opening hours aware:** the app tells customers when the restaurant is closed and when it opens.
+- **Opening hours aware:** tells customers when the restaurant is closed and when it opens.
 - **Installable web app (PWA).**
 
-## Screenshots
+## Mobile
 
-| Desktop | Mobile | Menu |
-|---|---|---|
-| <img src="screenshots/desktop.png" width="520"> | <img src="screenshots/mobile.png" width="200"> | <img src="screenshots/mobile-menu.png" width="200"> |
+<img src="screenshots/mobile.png" alt="Terra Nostra · Ordering Platform mobile screens" width="100%">
+
+## Desktop
+
+<img src="screenshots/desktop.png" alt="Terra Nostra · Ordering Platform desktop" width="100%">
 
 ## Stack
 
@@ -38,4 +40,8 @@ The source code is private because it belongs to the client. I am happy to walk 
 
 ---
 
-Built by **[Erick Rodrigues](https://github.com/Erickrodrigues05)**, Full-Stack Developer · erickrodrigues781@gmail.com
+<div align="center">
+
+Built by **[Erick Rodrigues](https://github.com/Erickrodrigues05)**, Full-Stack Developer · [erickrodrigues781@gmail.com](mailto:erickrodrigues781@gmail.com)
+
+</div>
